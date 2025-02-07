@@ -22,3 +22,4 @@ def main():
     else:
         print("You Tie!")
 
+main()
